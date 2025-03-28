@@ -34,4 +34,8 @@
         * `11. Deploy on server`
       * `http://localhost:3000/api/weather`
         * `{"temperature":26,"status":"cloudy"}`
+* `git commit -m "06:11 express.static"`
+
+## Github repo
+
 
