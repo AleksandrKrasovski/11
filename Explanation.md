@@ -38,4 +38,5 @@
 
 ## Github repo
 
-
+* press bookmark `Source control`
+  * write `init` and press `Commit`
