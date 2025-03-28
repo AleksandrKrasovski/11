@@ -58,4 +58,7 @@
   * <https://fullstackjs-express.vercel.app/api/weather> does not work
     * <https://stackoverflow.com/questions/72133185/deploy-an-express-server-that-uses-express-static-to-serve-a-build-folder-to-ver>
       * create `vercel.json`
-
+      * git commit `vercel and vercel.json`
+      * push
+  * <https://fullstackjs-express.vercel.app/api/weather> work
+  * add `server.js` by `currency`
