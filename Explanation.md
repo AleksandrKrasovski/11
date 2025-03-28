@@ -39,4 +39,23 @@
 ## Github repo
 
 * press bookmark `Source control`
-  * write `init` and press `Commit`
+  * `CHANGES`
+    * write `init` and press `Commit`
+  * `GRAPH`
+    * `Publish branch`
+  * Publish to GitHub `public` repository
+* go to <https://github.com/AleksandrKrasovski/11>
+  * ok
+
+## Vercel
+
+* <https://vercel.com/alivs-projects>
+  * `Add new...` 
+    * `Project`
+  * connect with GitHub
+  * `Import Git Repository` named `11`
+  * <https://fullstackjs-express.vercel.app> works
+  * <https://fullstackjs-express.vercel.app/api/weather> does not work
+    * <https://stackoverflow.com/questions/72133185/deploy-an-express-server-that-uses-express-static-to-serve-a-build-folder-to-ver>
+      * create `vercel.json`
+
